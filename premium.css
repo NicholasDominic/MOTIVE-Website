@@ -1,0 +1,57 @@
+body {
+	margin: 0;
+	background-color: black;
+}
+
+img {
+	position: absolute;
+	width: 90%;
+	height: 100%;
+	margin-left: 5%;
+}
+
+a > button {
+	position: absolute;
+	right: 10%;
+	top: 5%;
+	background-color: transparent;
+	color: white;
+	font-family: candara;
+	font-weight: bold;
+	font-size: 120%;
+	width: 150px;
+	padding: 10px 10px 10px 10px;
+	border-radius: 10%;
+}
+
+a > button:hover {
+	background-color: #daa512;
+	color: black;
+	cursor: pointer;
+	transition: all 0.5s;
+}
+
+.purchase {
+	position: absolute;
+	width: 40%;
+	right: 10%;
+	bottom: 5%;
+	padding: 23px;
+	background-color: transparent;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 180%;
+	color: white;
+	letter-spacing: 2px;
+}
+
+.purchase:hover {
+	transition: all 1.5s;
+	cursor: wait;
+	background-color: white;
+	color: black;
+	transform: rotateX(360deg);
+	letter-spacing: 5px;
+	font-size: 220%;
+	font-weight: bold;
+}

@@ -1,0 +1,141 @@
+body {
+	margin: 0;
+	background-color: ghostwhite;
+	position: relative;
+}
+
+.header {
+	width: 100%;
+	background-image: url("x.jpg");
+}
+
+.header > a > img {
+	width: 20%;
+	padding: 10px 0 10px 10px;
+}
+
+/* HORIZONTAL NAVBAR */
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #36454f;
+	position: sticky;
+	top: 0;
+}
+
+li {
+	float: left;
+	font-family: arial;
+	font-size: 120%;
+	font-weight: bold;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 25px 14px 25px;
+	text-decoration: none;
+}
+
+li a:hover { background-color: #daa520; transition: all 0.5s; }
+.act1 { background-color: black; }
+
+/* --------------------------------------------- */
+
+.footer {
+	padding: 10px 20px 10px 20px;
+	background-color: #202930;
+	color: white;
+	text-align: center;
+	font-size: 80%;
+	font-family: arial;
+	cursor: default;
+}
+
+.quickmenu table {
+	position: fixed;
+	top: 35%;
+	right: 0;
+	width: 30%;
+	height: 30%;
+}
+
+.quickmenu table img {
+	width: 70%;
+	height: 8%;
+	text-align: center;
+}
+
+.qm1, .qm3 { text-align: right; }
+.qm2, .qm4 { text-align: left; }
+
+.quickmenu table img:hover {
+ 	box-shadow: 0 0 2px 1px #daa520;
+ 	cursor: pointer;
+ 	transition: all 0.5s;
+ 	transition-timing-function: ease-in-out;
+}
+
+.footer a {
+	color: white;
+	text-decoration: none;
+}
+
+.footer a:hover {
+	font-weight: bold;
+	color: #daa520;
+}
+
+.container {
+	width: 50%;
+	margin: 1% 25% 1% 25%;
+}
+
+.container img {
+	width: 5%;
+	height: 2%;
+	filter: brightness(0) invert(1);
+}
+
+.blog1, .blog2 {
+	font-family: candara;
+	letter-spacing: 2px;
+	position: relative;
+	margin: 20px 30% 20px 10%;
+	text-align: justify;
+	cursor: default;
+	z-index: -1;
+}
+
+.blog1 > b, .blog2 > b {
+	font-size: 150%;
+	color: #daa520;
+}
+
+.blog1 > img, .blog2 > img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+	height: 80%;
+}
+
+.src1, .src2 {
+	font-family: arial;
+	font-size: 70%;
+	color: grey;
+	text-align: center;
+}
+
+.ref1, .ref2 {
+	font-family: arial;
+	color: grey;
+	position: relative;
+	margin: 20px 40% 20px 10%;
+	text-align: justify;
+	cursor: default;
+	z-index: -1;
+}

@@ -1,0 +1,133 @@
+body {
+	margin: 0;
+	background-color: ghostwhite;
+	position: relative;
+}
+
+.header {
+	position: relative;
+	width: 100%;
+	background-image: url("c.jpg");
+}
+
+.header > a > img {
+	padding: 10px 0 10px 10px;
+	width: 20%;
+}
+
+/* HORIZONTAL NAVBAR */
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #36454f;
+	position: sticky;
+	top: 0;
+}
+
+li {
+	float: left;
+	font-family: arial;
+	font-size: 120%;
+	font-weight: bold;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 25px 14px 25px;
+	text-decoration: none;
+}
+
+li a:hover { background-color: #daa520; transition: all 0.5s; }
+.act1 { background-color: black; }
+
+/* --------------------------------------------- */
+
+.footer {
+	padding: 10px 20px 10px 20px;
+	background-color: #202930;
+	color: white;
+	text-align: center;
+	font-size: 80%;
+	font-family: arial;
+	cursor: default;
+}
+
+.quickmenu table {
+	position: fixed;
+	top: 35%;
+	right: 0;
+	width: 30%;
+	height: 30%;
+}
+
+.quickmenu table img {
+	width: 70%;
+	height: 8%;
+	text-align: center;
+}
+
+.qm1, .qm3 { text-align: right; }
+.qm2, .qm4 { text-align: left; }
+
+.quickmenu table img:hover {
+ 	box-shadow: 0 0 2px 1px #daa520;
+ 	cursor: pointer;
+  	transition: all 0.5s;
+ 	transition-timing-function: ease-in-out;
+}
+
+.footer a {
+	color: white;
+	text-decoration: none;
+}
+
+.footer a:hover {
+	font-weight: bold;
+	color: #daa520;
+}
+
+.container {
+	width: 50%;
+	margin: 1% 25% 1% 25%;
+}
+
+.container img {
+	width: 5%;
+	height: 2%;
+	filter: brightness(0) invert(1);
+}
+
+.reportform {
+	margin-left: 10%;
+	margin-bottom: 3%;
+}
+
+.reportform > p {
+	font-family: candara;
+	font-weight: bold;
+	font-size: 250%;
+	letter-spacing: 3px;
+	color: #daa520;
+}
+
+.submit {
+	background-color: #36454f;
+	color: white;
+	padding: 10px 15px 10px 15px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+.submit:hover {
+	transition: all 0.5s;
+	background-color: #daa520;
+	color: black;
+}
+
+.cb {
+	cursor: default;
+}
