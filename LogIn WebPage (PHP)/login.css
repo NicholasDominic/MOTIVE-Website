@@ -1,0 +1,89 @@
+body {
+	margin: 0;
+}
+
+.bg > img {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	filter: blur(5px);
+	z-index: -1;
+}
+
+.login-box {
+	background-image: url("../x.jpg");
+	position: relative;
+	width: 20%;
+	padding: 3%;
+	border-radius: 5%;
+	top: 100px;
+	left: 37.5%;
+	background-color: white;
+	box-shadow: 0 0 5px 3px #daa520;
+}
+
+.login-box > .motive > a > img {
+	width: 50%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.login-box > .txt {
+	font-family: candara;
+	font-weight: bold;
+	font-size: 200%;
+	cursor: default;
+}
+
+.login-box > .txt:hover {
+	transition: all 0.5s;
+	letter-spacing: 5px;
+	color: #0d67a8;
+}
+
+.input-binusid, .input-pass {
+	cursor: default;
+	font-family: arial;
+	font-weight: bold;
+	color: #353535;
+}
+
+.input-binusid > input, .input-pass > input {
+	padding: 2%;
+	font-style: italic;
+}
+
+.input-binusid > input:hover, .input-pass > input:hover {
+	box-shadow: 0 0 1px 2px #daa520;
+}
+
+.input-field > input {
+	padding: 3%;
+	width: 30%;
+	background-color: black;
+	color: white;
+}
+
+.input-field > input:hover {
+	transition: all 0.5s;
+	transform: rotateX(360deg);
+	font-family: candara;
+	font-weight: bold;
+	background-color: #daa520;
+	color: black;
+	cursor: pointer;
+}
+
+.box-foot > a {
+	text-decoration: none;
+	color: #0d67a8;
+	font-family: candara;
+	font-size: 70%;
+}
+
+.box-foot > a:hover {
+	color: black;
+	font-weight: bold;
+	transition: all 0.5s;
+	letter-spacing: 2px;
+}

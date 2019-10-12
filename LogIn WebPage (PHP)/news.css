@@ -1,0 +1,80 @@
+body { margin: 0; }
+
+.titles {
+	padding: 15px;
+	background-color: #daa520;
+	font-family: candara;
+	font-size: 125%;
+	font-weight: bold;
+	color: #;
+}
+
+img {
+	padding: 30px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.content, .task-needed {
+	font-family: candara;
+	font-size: 110%;
+}
+
+.tasks {
+	margin: 2%;
+	padding: 20px;
+	background-color: #36454f;
+	color: white;
+	font-family: arial;
+	font-size: 100%;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #daa520;
+}
+
+li {
+	font-family: candara;
+	width: 100%;
+	float: left;
+	display: block;
+}
+
+li a {
+	display: block;
+	padding: 35px;
+	color: black;
+	font-size: 150%;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+li a:hover {
+	transition: all 0.5s;
+	color: white;
+	background-color: #36454f;
+}
+
+form > input {
+	background-color: transparent;
+	color: white;
+	font-size: 90%;
+	font-weight: bold;
+	margin-top: 1%;
+	padding: 10px 20px 10px 20px;
+}
+
+form > input:hover {
+	transition: all 1s;
+	transform: rotateX(360deg);
+	background-color: white;
+	color: #36454f;
+	letter-spacing: 2px;
+	box-shadow: 0 0 2px 1px #daa520;
+}

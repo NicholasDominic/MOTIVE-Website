@@ -1,0 +1,32 @@
+[20-Apr-2019 13:09:52 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in E:\xampp\htdocs\motive\LogIn WebPage\LogOut.php on line 6
+[20-Apr-2019 13:10:02 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in E:\xampp\htdocs\motive\LogIn WebPage\LogOut.php on line 6
+[03-May-2019 03:43:09 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in E:\xampp\htdocs\motive\LogIn WebPage\LogOut.php on line 6
+[17-May-2019 09:17:42 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in E:\xampp\htdocs\motive\LogIn WebPage\LogOut.php on line 6
+[20-May-2019 04:09:43 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 29
+[20-May-2019 04:13:45 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 29
+[20-May-2019 04:13:49 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 29
+[20-May-2019 04:16:37 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[20-May-2019 04:17:36 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[20-May-2019 04:18:07 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[20-May-2019 04:18:52 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[20-May-2019 04:19:06 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[20-May-2019 04:19:10 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[20-May-2019 04:19:13 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[20-May-2019 04:19:23 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[20-May-2019 04:20:02 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[20-May-2019 04:21:05 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[20-May-2019 04:34:48 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[25-Jun-2019 05:08:22 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[25-Jun-2019 05:12:44 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[25-Jun-2019 05:13:43 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[25-Jun-2019 05:14:13 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[25-Jun-2019 05:14:53 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[25-Jun-2019 05:16:18 Europe/Berlin] PHP Notice:  Undefined index: task in E:\xampp\htdocs\motive\LogIn WebPage\post.php on line 61
+[25-Jun-2019 05:16:18 Europe/Berlin] PHP Notice:  Undefined index: reward in E:\xampp\htdocs\motive\LogIn WebPage\post.php on line 62
+[25-Jun-2019 05:18:47 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[25-Jun-2019 05:18:58 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[25-Jun-2019 05:18:58 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[25-Jun-2019 05:18:59 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[25-Jun-2019 05:18:59 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[25-Jun-2019 05:18:59 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30
+[25-Jun-2019 05:18:59 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in E:\xampp\htdocs\motive\LogIn WebPage\myPosts.php on line 30

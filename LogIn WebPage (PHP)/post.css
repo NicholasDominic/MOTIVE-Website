@@ -1,0 +1,39 @@
+body { margin: 0; background-color: ghostwhite; }
+
+form {
+	font-family: candara;
+	font-size: 125%;
+	font-weight: bold;
+	margin: 2%;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #daa520;
+}
+
+li {
+	font-family: candara;
+	width: 100%;
+	float: left;
+	display: block;
+}
+
+li a {
+	display: block;
+	padding: 35px;
+	color: black;
+	font-size: 150%;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+li a:hover {
+	transition: all 0.5s;
+	color: white;
+	background-color: #36454f;
+}
